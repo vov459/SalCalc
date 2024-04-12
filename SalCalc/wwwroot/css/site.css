@@ -1,0 +1,101 @@
+html {
+  font-size: 14px;
+}
+
+main {
+    margin:15px;
+}
+.UserTable
+{
+    width: 80vw;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+.UserTable td
+{
+    border: 1px solid black;
+}
+.ReportTable
+{
+    max-height: 79vh;
+}
+.UserTable td
+{
+    border: 1px solid black;
+}
+.UserTableText
+{
+    width: 95%;
+}
+.UserTableText[readonly]
+{
+
+    background: transparent;
+    color: black;
+    border: 0;
+}
+html {
+    position: relative;
+    min-height: 100%;
+    margin-top: -16.5px !important;
+    margin: 0 ;
+}
+div.centered {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.UserAddInput {
+    width: 80%;
+    margin: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.UserAddButton {
+    width: 150px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    margin-top: 20px;
+}
+body {
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+.ul_nav li {
+    margin: 0 5px 0 5px;
+    display: block;
+    float: left;
+}
+header {
+    width: 100%;
+    background-size: cover;
+    margin: 0;
+    height: 50px;
+    background: #002a98 top center;
+}
+.button_nav {
+    height: 48px;
+    background: transparent;
+    border: transparent inset;
+    border-width: 0 0 2px 0;
+    color: white;
+}
+
+.button_nav_selected {
+    border: #00ffb7 solid;
+    height: 48px;
+    background: transparent;
+    border-width: 0 0 2px 0;
+    color: white;
+}
+
+.button_nav:focus, .button_nav:hover, .button_nav_selected:focus, .button_nav_selected:hover
+{
+    cursor: pointer;
+    border: #33cff8 solid;
+    border-width: 0 0 2px 0;
+}

@@ -1,0 +1,356 @@
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.exe
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.deps.json
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.json
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.dev.json
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\ref\VRPO.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.pdb
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\DynamicData.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\ReactiveUI.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\ReactiveUI.Wpf.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Splat.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\System.Reactive.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.AssemblyReference.cache
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.cache
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.lref
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\App.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.g.resources
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfoInputs.cache
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfo.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CopyComplete
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\ref\VRPO.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.pdb
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.genruntimeconfig.cache
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\Order.g.cs
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.baml
+C:\Users\Ilya\Documents\MyProject\Kwork\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\Order.baml
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.exe
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.deps.json
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.json
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.dev.json
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\ref\VRPO.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.pdb
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\DynamicData.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Humanizer.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\ReactiveUI.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\ReactiveUI.Wpf.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\Splat.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\System.Reactive.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\KWORK\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.AssemblyReference.cache
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\Order.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\App.g.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.cache
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.lref
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\App.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\MainWindow.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\Order.baml
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.g.resources
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.GeneratedMSBuildEditorConfig.editorconfig
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfoInputs.cache
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfo.cs
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CoreCompileInputs.cache
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CopyComplete
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.dll
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\ref\VRPO.dll
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.pdb
+F:\KWORK\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.genruntimeconfig.cache
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.exe
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.deps.json
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.json
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.dev.json
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\ref\VRPO.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\VRPO.pdb
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\DynamicData.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Humanizer.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\ReactiveUI.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\ReactiveUI.Wpf.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\Splat.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\System.Reactive.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.AssemblyReference.cache
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\Order.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\App.g.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.cache
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.lref
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\App.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\MainWindow.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\View\Order\Order.baml
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.g.resources
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.GeneratedMSBuildEditorConfig.editorconfig
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfoInputs.cache
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfo.cs
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CoreCompileInputs.cache
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CopyComplete
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\ref\VRPO.dll
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.pdb
+F:\KWORK\Архив ноябрь 2021- март 2022\VRPO\VRPO\obj\Debug\net5.0-windows\VRPO.genruntimeconfig.cache
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\VRPO.exe
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\VRPO.deps.json
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.json
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\VRPO.runtimeconfig.dev.json
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\VRPO.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\VRPO.pdb
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\DynamicData.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Humanizer.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\ReactiveUI.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\ReactiveUI.Wpf.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\Splat.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\System.Reactive.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\SalCalc\VRPO\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.AssemblyReference.cache
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\MainWindow.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\Order.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\App.g.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.cache
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO_MarkupCompile.lref
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\App.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\MainWindow.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Employee\AddEmployee.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeMain.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Employee\EmployeeTable.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Food\AddFood.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Food\FoodTable.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Food\MainFood.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Mail\SendMail.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrder.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderFood.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\FindOrderMain.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\View\Order\Order.baml
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.g.resources
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.GeneratedMSBuildEditorConfig.editorconfig
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfoInputs.cache
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.AssemblyInfo.cs
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CoreCompileInputs.cache
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.csproj.CopyComplete
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.dll
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\refint\VRPO.dll
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.pdb
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\VRPO.genruntimeconfig.cache
+F:\SalCalc\VRPO\obj\Debug\net5.0-windows\ref\VRPO.dll

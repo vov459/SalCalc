@@ -1,0 +1,22 @@
+﻿@model SalCalc.ViewModel.ReportViewModel
+<div>
+    <select  id="SelectEmp"   onchange="salary.GetUserPosition()" >
+        <option disabled="disabled" selected="selected" value="0">ФИО</option>
+        @foreach (var emp in @Model.EmployeeList)
+        {
+            <option value="@emp.Id">@emp.GetFio()</option>
+        }
+    </select>
+    <select  id="Year"   >
+        <option disabled="disabled" selected="selected" value="0">Год</option>
+        <option  value="2022">2022</option>
+        <option  value="2023">2023</option>
+        <option  value="2024">2024</option>
+    </select>
+    <label for="check_mouth">Выбрать месяцы</label>
+    <input id="check_mouth" type="checkbox"  onchange="report.OpenMonth()"/>
+    <input type="number" id="Month" placeholder="Кол-во месяцев" style="visibility: collapse" />
+    <input type="button" value="Добавить" onclick="report.AddUserInReport()"/>
+</div>
+<br/>
+<div id="ReportList"></div>

@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ilya\\Documents\\MyProject\\Kwork\\VRPO\\VRPO\\VRPO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ilya\\Documents\\MyProject\\Kwork\\VRPO\\VRPO\\VRPO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ilya\\Documents\\MyProject\\Kwork\\VRPO\\VRPO\\VRPO.csproj",
+        "projectName": "VRPO",
+        "projectPath": "C:\\Users\\Ilya\\Documents\\MyProject\\Kwork\\VRPO\\VRPO\\VRPO.csproj",
+        "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ilya\\Documents\\MyProject\\Kwork\\VRPO\\VRPO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows8.0": {
+            "targetAlias": "net5.0-windows8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows8.0": {
+          "targetAlias": "net5.0-windows8.0",
+          "dependencies": {
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "ReactiveUI": {
+              "target": "Package",
+              "version": "[16.4.15, )"
+            },
+            "ReactiveUI.WPF": {
+              "target": "Package",
+              "version": "[16.4.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

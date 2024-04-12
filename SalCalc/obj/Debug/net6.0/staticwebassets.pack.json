@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SalCalc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SalCalc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\ТП\\ТП\\вариант_2\\SalCalc\\SalCalc\\SalCalc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SalCalc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SalCalc.props",
+      "PackagePath": "build\\SalCalc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SalCalc.props",
+      "PackagePath": "buildMultiTargeting\\SalCalc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SalCalc.props",
+      "PackagePath": "buildTransitive\\SalCalc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

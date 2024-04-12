@@ -1,0 +1,49 @@
+﻿@model SalCalc.ViewModel.SalaryViewModel
+@{
+    ViewData["Title"] = "Зарплата";
+}
+<script>salary.GetSalary()</script>
+<div>
+    <input type="button" value="Добавить" id="AddOrTableBut" onclick="salary.OpenAddSalary()" style="float:right;margin-right:30px;" />
+    <br/>
+    <div style="margin-top:20px;display: block" id="SalaryTable" ></div>
+    <div style="margin-top:20px;display: none"  id="SalaryAdd" class="centered" >
+        <select class="UserAddInput" id="SelectEmp"   onchange="salary.GetUserPosition()" >
+            <option disabled="disabled" selected="selected" value="0">ФИО</option>
+            @foreach (var emp in @Model.EmployeeList)
+            {
+                <option value="@emp.Id">@emp.GetFio()</option>
+            }
+        </select><br />
+        <input type="text" id="Position" readonly="readonly" class="UserAddInput" placeholder="Должность" /><br />
+        <select class="UserAddInput" id="SystemSalarySelect"    >
+                    <option disabled="disabled" selected="selected" value="0">Система оплаты</option>
+                    @foreach (var sal in @Model.SystemSalary)
+                    {
+                        <option value="@sal.Id">@sal.Type</option>
+                    }
+        </select><br />
+        <select class="UserAddInput" id="TypeSalarySelect"   >
+                    <option disabled="disabled" selected="selected" value="0">Тип оплаты</option>
+                    @foreach (var sal in @Model.TypeSalary)
+                    {
+                        <option value="@sal.Id">@sal.Type</option>
+                    }
+        </select><br />
+        <select class="UserAddInput" id="MonthSelect"   >
+                    <option disabled="disabled" selected="selected" value="0">Месяц</option>
+                    @foreach (var month in @Model.MonthList)
+                    {
+                        <option value="@month.Id">@month.Name</option>
+                    }
+        </select><br />
+        <select class="UserAddInput" id="YearSelect"   >
+            <option disabled="disabled" selected="selected" value="0">Год</option>
+            <option  value="2022">2022</option>
+            <option  value="2023">2023</option>
+            <option  value="2024">2024</option>
+        </select>
+        <input type="number" id="Salary"  class="UserAddInput" placeholder="Зарплата" /><br />
+        <input type="button" value="Добавить" class="UserAddButton" onclick="salary.AddSalary()" />
+    </div>
+</div>

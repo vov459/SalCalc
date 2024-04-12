@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Пользователи";
+}
+
+<script>user.GetUsers()</script>
+<div>
+    <input type="button" value="Добавить" id="AddOrTableBut" onclick=" user.OpenAddUser()" style="float:right;margin-right:30px;" />
+    <br/>
+    <div style="margin-top:20px;display: block" id="UserTable" ></div>
+    <div style="margin-top:20px;display: none"  id="UserAdd" class="centered" >
+        <input type="text" id="LastName" class="UserAddInput" placeholder="Фамилия" /><br />
+        <input type="text" id="FirstName" class="UserAddInput" placeholder="Имя" /><br />
+        <input type="text" id="SecondName" class="UserAddInput" placeholder="Отчество" /><br />
+        <input type="text" id="Position" class="UserAddInput" placeholder="Должность" /><br />
+        <input type="number" id="PhoneNumber" class="UserAddInput" placeholder="Телефон" /><br />
+        <input type="email" id="Email" class="UserAddInput" placeholder="E-mail" /><br />
+        <input type="button" value="Добавить" class="UserAddButton" onclick="user.AddUser()" />
+    </div>
+</div>

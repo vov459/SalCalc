@@ -1,0 +1,39 @@
+﻿@model SalCalc.Models.Report.ReportList
+
+@{
+    Layout = null;
+}
+
+<div  style="height: calc(80vh + 50px + 15px);">
+    <div  style="height: calc(80vh - 15px); overflow: auto">
+        <table class="UserTable ReportTable" >
+            <thead>
+            <tr>
+                <td>ФИО</td>
+                <td>Год</td>
+                <td>Кол-во месяцев</td>
+                <td>Средняя зарплата</td>
+                <td>Итоговая зарплата</td>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var emp in @Model.EmployeeReports)
+            {
+                <tr>
+                    <td>@emp.Employee.GetFio()</td>
+                    <td>@emp.Year</td>
+                    <td>@emp.CountMonth</td>
+                    <td>@emp.MidSalary</td>
+                    <td>@emp.AllSalary</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    
+    </div>
+    <div style="height: 50px; margin-top: 15px">
+        <div style="float:left;margin: 15px">Минимальная зп:@Model.MinSalary</div>
+        <div style="float:left;margin: 15px">Максимальня зп:@Model.MaxSalary</div>
+        <div style="float:left;margin: 15px">Медианная зп:@Model.MidSalary</div>
+    </div>
+</div>

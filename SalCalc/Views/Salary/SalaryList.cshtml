@@ -1,0 +1,76 @@
+﻿@using SalCalc.Models
+@model SalCalc.ViewModel.SalaryViewModel
+@{
+    Layout = null;
+
+}
+<form asp-action="UpdateSalary" asp-controller="Salary">
+    <table  class="UserTable">
+        <thead>
+        <tr>
+            <td>ФИО</td>
+            <td>Должность</td>
+            <td>Зарплата</td>
+            <td>Система зарплаты</td>
+            <td>Тип зарплаты</td>
+            <td>Месяц</td>
+            <td>Год</td>
+            <td>Удалить</td>
+        </tr>
+        </thead>
+        <tbody>
+        @for(var i=0; i<Model.Salaries.Count();i++)
+        {
+            <tr>
+                @{var posId=$"position_{i}";}
+                @{var userId=$"user_table_{i}";}
+                <input type="hidden" asp-for="@Model.Salaries[i].Id"/>
+                <td>
+                    <select class="UserTableText" id="@userId" asp-for="@Model.Salaries[i].EmployeeId" onchange="salary.GetUserPositionTable('@userId','@posId' )">
+                        <option disabled="disabled" selected="selected" value="0">ФИО</option>
+                        @foreach (var emp in @Model.EmployeeList)
+                        {
+                            <option value="@emp.Id">@emp.GetFio()</option>
+                        }
+                    </select></td>
+
+                <td><input type="text" readonly="readonly" id='@posId' class="UserTableText" value="@Model.Salaries[i].Employee.Position"/></td>
+                <td><input type="number" class="UserTableText" asp-for="@Model.Salaries[i].SalaryReceived"/></td>
+                <td>
+                    <select class="UserTableText" id="SystemSalary" asp-for="Salaries[i].SystemSalaryId">
+                        <option disabled="disabled" selected="selected" value="0">Система оплаты</option>
+                        @foreach (var sal in @Model.SystemSalary)
+                        {
+                            <option value="@sal.Id">@sal.Type</option>
+                        }
+                    </select></td>
+                <td>
+                    <select class="UserTableText" id="TypeSalary" asp-for="@Model.Salaries[i].TypeSalaryId">
+                        <option disabled="disabled" selected="selected" value="0">Тип оплаты</option>
+                        @foreach (var sal in @Model.TypeSalary)
+                        {
+                            <option value="@sal.Id">@sal.Type</option>
+                        }
+                    </select></td>
+                <td>
+                    <select class="UserTableText" id="Month" asp-for="@Model.Salaries[i].MonthId">
+                        <option disabled="disabled" selected="selected" value="0">Месяц</option>
+                        @foreach (var month in @Model.MonthList)
+                        {
+                            <option value="@month.Id">@month.Name</option>
+                        }
+                    </select></td>
+                <td>
+                       <select class="UserTableText" id="Year" asp-for="@Model.Salaries[i].Year"   >
+                                <option disabled="disabled" selected="selected" value="0">Год</option>
+                                <option  value="2022">2022</option>
+                                <option  value="2023">2023</option>
+                                <option  value="2024">2024</option>
+                            </select></td>
+                <td><input type="button" onclick="salary.DeleteSalary(@Model.Salaries[i].Id,'@Model.Salaries[i].Employee.GetFio()')" value="Удалить"/></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <input type="submit" class="UserAddButton" value="Редактировать"/>
+</form>

@@ -1,0 +1,38 @@
+﻿@using Microsoft.AspNetCore.Components.Web
+@using Microsoft.AspNetCore.Http
+@inject Microsoft.AspNetCore.Http.IHttpContextAccessor HttpContextAccessor
+@{
+    var page = @HttpContextAccessor.HttpContext.Session.GetInt32("OpenPage");
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - SalCalc</title>
+     <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="js/site.js"></script>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+<body>
+    <header>
+        <nav class="nav">
+            <div >
+                <div>
+                    <ul class="ul_nav">
+                        <li class="nav-item"><a asp-controller="Home" asp-action="Index"><button class="@((page == 1) ? "button_nav_selected" :"button_nav")">Сотрудники </button></a></li>
+                        <li class="nav-item"><a asp-controller="Salary"  asp-action="Index"><button id="but_imp" class="@((page == 2) ? "button_nav_selected" :"button_nav")">Зарплата</button></a></li>
+                        <li class="nav-item"><a class="nav-link text-dark"  asp-controller="Report"  asp-action="Index"><button class="@((page == 3) ? "button_nav_selected" :"button_nav")">Отчет</button></a></li>  
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+</body>
+</html>

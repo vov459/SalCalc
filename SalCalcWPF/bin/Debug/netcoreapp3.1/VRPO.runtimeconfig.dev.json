@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\spiri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\spiri\\.nuget\\packages"
+    ]
+  }
+}

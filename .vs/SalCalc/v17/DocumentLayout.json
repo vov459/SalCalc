@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\test\\Desktop\\\u0422\u041F\\SalCalc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805C0A0B-715F-4E77-B70D-6302F3155229}|SalCalc\\SalCalc.csproj|c:\\users\\test\\desktop\\\u0442\u043F\\salcalc\\salcalc\\salcalc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{805C0A0B-715F-4E77-B70D-6302F3155229}|SalCalc\\SalCalc.csproj|solutionrelative:salcalc\\salcalc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805C0A0B-715F-4E77-B70D-6302F3155229}|SalCalc\\SalCalc.csproj|c:\\users\\test\\desktop\\\u0442\u043F\\salcalc\\salcalc\\models\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805C0A0B-715F-4E77-B70D-6302F3155229}|SalCalc\\SalCalc.csproj|solutionrelative:salcalc\\models\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 668,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalCalc",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\\u0422\u041F\\SalCalc\\SalCalc\\SalCalc.csproj",
+              "RelativeDocumentMoniker": "SalCalc\\SalCalc.csproj",
+              "ToolTip": "C:\\Users\\test\\Desktop\\\u0422\u041F\\SalCalc\\SalCalc\\SalCalc.csproj",
+              "RelativeToolTip": "SalCalc\\SalCalc.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T06:27:05.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\test\\Desktop\\\u0422\u041F\\SalCalc\\SalCalc\\Models\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "SalCalc\\Models\\ConnectDB.cs",
+              "ToolTip": "C:\\Users\\test\\Desktop\\\u0422\u041F\\SalCalc\\SalCalc\\Models\\ConnectDB.cs",
+              "RelativeToolTip": "SalCalc\\Models\\ConnectDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T05:30:05.566Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 214,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

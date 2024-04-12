@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Employee\AddEmployee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Employee\EmployeeMain.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Employee\EmployeeTable.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Report\MainReport.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Salary\MainSalary.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Salary\SalaryAdd.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Salary\SalaryTable.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Employee\AddEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Employee\EmployeeMain.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Employee\EmployeeTable.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Report\MainReport.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Salary\MainSalary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Salary\SalaryAdd.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Salary\SalaryTable.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

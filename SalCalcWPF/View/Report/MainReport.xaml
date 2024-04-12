@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="SalCalcWpf.View.Report.MainReport"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SalCalcWpf.View.Report"
+             mc:Ignorable="d" 
+             xmlns:ViewModel="clr-namespace:SalCalcWpf.ViewModel"
+             xmlns:wpf="http://materialdesigninxaml.net/winfx/xaml/themes" 
+             d:DataContext="{d:DesignInstance Type=ViewModel:ReportViewModel}"
+             d:DesignHeight="450" d:DesignWidth="800" Background="White">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <ComboBox wpf:HintAssist.HintOpacity="1" x:Name="emp" wpf:HintAssist.Hint="Сотрудник" Height="40" Width="200" Margin="10,0,10,0"  wpf:HintAssist.IsFloating="True" ItemsSource="{Binding EmployeeTable}" SelectedItem="{Binding Emp}" DisplayMemberPath="FIO" SelectedValuePath="Id"></ComboBox>
+            <ComboBox Grid.Row="5" wpf:HintAssist.HintOpacity="1"  wpf:HintAssist.Hint="Год"   Height="40" Width="75" Margin="10,0,10,0" wpf:HintAssist.IsFloating="True" ItemsSource="{Binding Years}" SelectedValue="{Binding YearId}" ></ComboBox>
+            <CheckBox Margin="10,0,10,0" Content="Выбрать месяцы" x:Name="Month" IsChecked="{Binding IsMonth}"></CheckBox>
+            <ComboBox Grid.Row="5" wpf:HintAssist.HintOpacity="1"  wpf:HintAssist.Hint="Месяц" Height="40" Width="75" Margin="10,0,10,0"  wpf:HintAssist.IsFloating="True" ItemsSource="{Binding Months}" SelectedValue="{Binding MonthId}" Visibility="{Binding ElementName=Month, Path=IsChecked, Converter={StaticResource BooleanToVisibilityConverter}}" DisplayMemberPath="Name" SelectedValuePath="Id"></ComboBox>
+            <Button Height="35" Content="Добавить" Width="150" Margin="10,0,10,0" Command="{Binding AddReport}"></Button>
+        </StackPanel>
+        <DataGrid Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding ReportList.EmployeeReports}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ФИО" Width="1*" Binding="{Binding Employee.FIO}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Год" Width="1*" Binding="{Binding Year}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Кол-во месяцев" Width="1*" Binding="{Binding CountMonth}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Средняя зарплата" Width="1*" Binding="{Binding MidSalary}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Итоговая зарплата" Width="1*" Binding="{Binding AllSalary}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <TextBlock Margin="10,0,10,0"><Run>Минимальная зарплала: </Run><Run Text="{Binding ReportList.MinSalary}"></Run></TextBlock>
+            <TextBlock Margin="10,0,10,0"><Run>Максимальная зарплата: </Run><Run Text="{Binding ReportList.MaxSalary}"></Run></TextBlock>
+            <TextBlock Margin="10,0,10,0"><Run>Медианная зарплата: </Run><Run Text="{Binding ReportList.MidSalary}"></Run></TextBlock>
+        </StackPanel>
+    </Grid>
+</UserControl>

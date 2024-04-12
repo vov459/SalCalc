@@ -1,0 +1,99 @@
+﻿<UserControl x:Class="SalCalcWpf.View.Salary.SalaryTable"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SalCalcWpf.View.Salary"
+             mc:Ignorable="d" 
+             x:Name="MainControl"
+             xmlns:ViewModel="clr-namespace:SalCalcWpf.ViewModel"
+               d:DataContext="{d:DesignInstance Type=ViewModel:SalaryViewModel}"
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" ></RowDefinition>
+            <RowDefinition ></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button Content="Удалить выбранную зарплату" Margin="10,0,0,0"  Command="{Binding DeleteSalary}" CommandParameter="{Binding ElementName=SalaryTables, Path=SelectedItem}"></Button>
+        </StackPanel>
+        <DataGrid Grid.Row="1" ItemsSource="{Binding  SalaryTable}" x:Name="SalaryTables" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Width="1*" Header="ФИО">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Employee.FIO}"></TextBlock></DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox x:Name="emp" ItemsSource="{Binding ElementName=MainControl, Path=DataContext.EmployeeTable}" SelectedValue="{Binding EmployeeId}" DisplayMemberPath="FIO" SelectedValuePath="Id" SelectedItem="{Binding Employee}"></ComboBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Width="1*" Header="Зарплата" Binding="{Binding SalaryReceived}"></DataGridTextColumn>
+                <DataGridTextColumn Width="1*" Header="Должность" Binding="{Binding Employee.Position}"></DataGridTextColumn>
+                <DataGridTemplateColumn Width="1*" Header="Тип зарплаты">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding TypeSalary.Type}"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox  ItemsSource="{Binding  Path=DataContext.TypeSalaries,RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}" SelectedValue="{Binding TypeSalaryId}" DisplayMemberPath="Type" SelectedValuePath="Id" SelectedItem="{Binding TypeSalary}"></ComboBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="1*" Header="Система зарплаты" ClipboardContentBinding="{x:Null}">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Path=SystemSalary.Type}"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox  ItemsSource="{Binding ElementName=MainControl, Path=DataContext.SystemSalaries}" SelectedValue="{Binding Path=SystemSalaryId}" DisplayMemberPath="Type" SelectedValuePath="Id" SelectedItem="{Binding Path=SystemSalary,UpdateSourceTrigger=PropertyChanged}"></ComboBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="1*" Header="Месяц" ClipboardContentBinding="{x:Null}"> 
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Path=Month.Name,UpdateSourceTrigger=PropertyChanged}"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox  x:Name="emp" ItemsSource="{Binding  DataContext.Months,RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}"  SelectedValue="{Binding Path=MonthId}" DisplayMemberPath="Name" SelectedValuePath="Id" SelectedItem="{Binding Path=Month,UpdateSourceTrigger=PropertyChanged}"></ComboBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Width="1*" Header="Год">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Year,UpdateSourceTrigger=PropertyChanged}"></TextBlock>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <ComboBox x:Name="emp" ItemsSource="{Binding  DataContext.Years,RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type UserControl}}}"  SelectedValue="{Binding Path=Year,UpdateSourceTrigger=PropertyChanged}" ></ComboBox>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+
+        </DataGrid>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Button Grid.Column="1" Width="150" Content="Сохранить" Command="{Binding UpdateSalaryCommand}"></Button>
+            <Button Grid.Column="3" Width="150" Content="Отменить" Command="{Binding CanselSalary}"></Button>
+        </Grid>
+    </Grid>
+</UserControl>

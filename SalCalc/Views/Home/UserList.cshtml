@@ -1,0 +1,38 @@
+﻿@using SalCalc.Models
+@model List<Employee>
+@{
+    Layout = null;
+    int i = 0;
+}
+<form asp-action="UpdateUser" asp-controller="Home">
+    <table  class="UserTable">
+        <thead>
+        <tr>
+            <td>Фамилия</td>
+            <td>Имя</td>
+            <td>Отчество</td>
+            <td>Должность</td>
+            <td>Номер телефона</td>
+            <td>E-mail</td>
+            <td>Удалить</td>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var emp in Model)
+        {
+            <tr>
+                <input type="hidden" asp-for="@Model[i].Id"/>
+                <td><input type="text" class="UserTableText" asp-for="@Model[i].LastName"/></td>
+                <td><input type="text" class="UserTableText" asp-for="@Model[i].FirstName"/></td>
+                <td><input type="text" class="UserTableText" asp-for="@Model[i].SecondName"/></td>
+                <td><input type="text" class="UserTableText" asp-for="@Model[i].Position"/></td>
+                <td><input type="text" class="UserTableText" asp-for="@Model[i].PhoneNumber"/></td>
+                <td><input type="text" class="UserTableText" asp-for="@Model[i].Email"/></td>
+                <td><input type="button" onclick="user.DeleteUser(@Model[i].Id,'@Model[i].LastName')" value="Удалить"/></td>
+            </tr> 
+            i++;
+        }
+        </tbody>
+    </table>
+    <input type="submit" class="UserAddButton" value="Редактировать"/>
+</form>
